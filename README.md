@@ -17,6 +17,20 @@ It’s a fun and practical way to decide what to cook with what you already have
 
 ---
 
+## Live Link
+
+https://chef-gemini-379n.vercel.app/
+
+---
+
+## Demo
+
+<img width="1914" height="1053" alt="Image" src="https://github.com/user-attachments/assets/6b01f62d-cca9-4502-9b3c-8e12c8c6933b" />
+
+<img width="948" height="990" alt="Image" src="https://github.com/user-attachments/assets/7c6b3756-1b60-4874-8936-1eee68adcf51" />
+
+---
+
 ## 🧩 Features
 
 * ✅ Add ingredients dynamically
