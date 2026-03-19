@@ -1,5 +1,5 @@
 import chefClaudeLogo from "../images/chef-icon.png"
-import geminiLogo from "../images/gemini_Logo.png"
+import geminiLogo from "../images/gemini_logo.png"
 
 export default function Header() {
     return (
